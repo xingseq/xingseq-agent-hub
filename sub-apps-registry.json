@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "subApps": [
+    {
+      "name": "flow-runner",
+      "repo": "https://github.com/xingseq/flow-runner",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
+    },
+    {
+      "name": "ai-draw",
+      "repo": "https://github.com/xingseq/ai-draw",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
+    },
+    {
+      "name": "email-cli",
+      "repo": "https://github.com/xingseq/email-disk",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
+    },
+    {
+      "name": "png-to-ico",
+      "repo": "https://github.com/xingseq/pngtoico",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
+    },
+    {
+      "name": "storage-cos",
+      "repo": "https://github.com/xingseq/storage-cos",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
+    }
+  ]
+}
