@@ -35,6 +35,13 @@
       "branch": "main",
       "manifestPath": "sub-app-manifest.json",
       "source": "github"
+    },
+    {
+      "name": "pytools",
+      "repo": "https://github.com/tiansu/pytools",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
     }
   ]
 }
