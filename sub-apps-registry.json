@@ -38,7 +38,7 @@
     },
     {
       "name": "pytools",
-      "repo": "https://github.com/tiansu/pytools",
+      "repo": "https://github.com/xingseq/pytools",
       "branch": "main",
       "manifestPath": "sub-app-manifest.json",
       "source": "github"
