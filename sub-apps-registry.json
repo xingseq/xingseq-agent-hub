@@ -42,6 +42,13 @@
       "branch": "main",
       "manifestPath": "sub-app-manifest.json",
       "source": "github"
+    },
+    {
+      "name": "folder-sync",
+      "repo": "https://github.com/xingseq/folder-sync",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
     }
   ]
 }
