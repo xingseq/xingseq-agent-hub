@@ -49,6 +49,13 @@
       "branch": "main",
       "manifestPath": "sub-app-manifest.json",
       "source": "github"
+    },
+    {
+      "name": "task-scheduler",
+      "repo": "https://github.com/xingseq/task-scheduler",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
     }
   ]
 }
