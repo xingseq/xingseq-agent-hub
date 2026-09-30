@@ -56,6 +56,13 @@
       "branch": "main",
       "manifestPath": "sub-app-manifest.json",
       "source": "github"
+    },
+    {
+      "name": "site-monitor",
+      "repo": "https://github.com/xingseq/site-monitor",
+      "branch": "main",
+      "manifestPath": "sub-app-manifest.json",
+      "source": "github"
     }
   ]
 }
